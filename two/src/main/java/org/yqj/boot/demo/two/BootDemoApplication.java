@@ -9,10 +9,11 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by yaoqijun.
- * Date:2016-04-27
- * Email:yaoqj@terminus.io
- * Descirbe:
+ * Description:
+ *
+ * @author yaoqijun
+ * @date 2018/8/15
+ * Email: yaoqijunmail@foxmail.com
  */
 @SpringBootApplication
 @Controller

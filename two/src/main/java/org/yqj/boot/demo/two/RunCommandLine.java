@@ -1,4 +1,4 @@
-package org.yqj.boot.demo.one;
+package org.yqj.boot.demo.two;
 
 import com.google.common.collect.Lists;
 import lombok.extern.slf4j.Slf4j;
@@ -14,10 +14,10 @@ import org.springframework.stereotype.Component;
  */
 @Component
 @Slf4j
-public class RunCommanLine implements CommandLineRunner{
+public class RunCommandLine implements CommandLineRunner{
 
     @Override
     public void run(String... args) throws Exception {
-        log.info("command line starting ...");
+        log.info("starting command line ...");
     }
 }

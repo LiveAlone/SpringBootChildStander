@@ -9,10 +9,11 @@ import org.springframework.core.env.Environment;
 import java.io.PrintStream;
 
 /**
- * Created by yaoqijun.
- * Date:2016-04-27
- * Email:yaoqj@terminus.io
- * Descirbe:
+ * Description:
+ *
+ * @author yaoqijun
+ * @date 2018/8/15
+ * Email: yaoqijunmail@foxmail.com
  */
 public class DemoBanner implements Banner{
 
